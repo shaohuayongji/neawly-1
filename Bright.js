@@ -1,7 +1,6 @@
 /**
-* @supported 28D01509 CF1FE6F0
+* @supported 28D0150923AA CF1FE6F0B3BC
 */
-
 {"status":0, "environment":"Production", 
 "receipt":{"receipt_type":"Production", "adam_id":1258621855, "app_item_id":1258621855, "bundle_id":"com.engbright.bright", "application_version":"4", "download_id":22057478245346, "version_external_identifier":833261759, "receipt_creation_date":"2019-11-01 01:52:52 Etc/GMT", "receipt_creation_date_ms":"1572573172000", "receipt_creation_date_pst":"2019-10-31 18:52:52 America/Los_Angeles", "request_date":"2019-11-01 01:52:58 Etc/GMT", "request_date_ms":"1572573178384", "request_date_pst":"2019-10-31 18:52:58 America/Los_Angeles", "original_purchase_date":"2019-11-01 01:10:54 Etc/GMT", "original_purchase_date_ms":"1572570654000", "original_purchase_date_pst":"2019-10-31 18:10:54 America/Los_Angeles", "original_application_version":"4", 
 "in_app":[
