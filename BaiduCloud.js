@@ -1,5 +1,5 @@
 /**
-* @supported 28D01509 CF1FE6F0
+* @supported 28D0150923AA CF1FE6F0B3BC
 */
 
 let obj = JSON.parse($response.body);
@@ -14,7 +14,7 @@ obj = {
     "product_name": "gz_telecom_exp"
   }, {
     "product_name": "svip2_nd",
-    "product_description": "³¬¼¶»áÔ±",
+    "product_description": "Â³Â¬Â¼Â¶Â»Ã¡Ã”Â±",
     "function_num": 0,
     "start_time": 1553702399,
     "buy_description": "",
